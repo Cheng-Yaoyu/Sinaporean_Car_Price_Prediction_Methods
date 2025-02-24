@@ -1,5 +1,12 @@
 # CS5228 Project Guidlines
 
+## Note:
+This project scored **2/108** in the kaggle competition and final assessment.
+
+Our approach made the difference between the predicted value of the vehicle and the actual value of the vehicle to be only about **$10,000**. 
+
+This project is for **learning reference** use only.
+
 ## Environment Setup Instructions
 
 To set up the environment for this code, please follow these steps:
