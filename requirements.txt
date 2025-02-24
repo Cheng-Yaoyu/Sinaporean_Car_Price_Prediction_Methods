@@ -1,0 +1,32 @@
+# General Data Processing and Analysis
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+sweetviz
+category-encoders
+
+# Text Processing and Embeddings
+scipy
+sentence-transformers
+
+# Machine Learning Models
+lightgbm
+xgboost
+catboost
+imbalanced-learn
+
+# TensorFlow for Deep Learning
+tensorflow==2.13.0
+# TensorRT for Model Optimization
+tensorrt==8.6.1.6
+
+# Parallel Processing and Efficiency
+joblib
+
+# Shapley Value Analysis for Explainability
+shap
+
+# Miscellaneous
+warnings
